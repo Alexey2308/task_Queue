@@ -16,7 +16,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Queue<Object> queue = new LinkedList<>();
+        Queue <Person> queue = new LinkedList<>();
         for (int i = 0; i < generateClients().size(); i++) {
             queue.offer(generateClients().get(i));
         }
