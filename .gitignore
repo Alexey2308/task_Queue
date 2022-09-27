@@ -4,6 +4,5 @@
 /.idea/workspace.xml
 /out
 /target
-*.xml
 *.idea
 *.iml
